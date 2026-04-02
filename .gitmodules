@@ -1,0 +1,3 @@
+[submodule ".tools/flutter"]
+	path = .tools/flutter
+	url = https://github.com/flutter/flutter.git

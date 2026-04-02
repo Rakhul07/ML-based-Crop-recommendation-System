@@ -1,0 +1,114 @@
+{
+  "rice": {
+    "sowing_method": "Transplant healthy seedlings in puddled fields with 20 x 15 cm spacing.",
+    "irrigation_schedule": "Maintain shallow standing water during vegetative stage and drain before harvest.",
+    "fertilizer_plan": "Apply split N doses with basal P and K; include zinc where deficiency exists.",
+    "pest_control": "Monitor stem borer and leaf folder; use pheromone traps and need-based sprays.",
+    "harvest_time": "110-140 days after transplanting depending on variety."
+  },
+  "wheat": {
+    "sowing_method": "Line sow at 20-22 cm row spacing using certified seed.",
+    "irrigation_schedule": "Critical irrigations at crown root initiation, tillering, flowering and grain filling.",
+    "fertilizer_plan": "Apply NPK based on soil test with 2 split N doses.",
+    "pest_control": "Scout for rusts and aphids; remove volunteer plants and spray only when threshold crosses.",
+    "harvest_time": "120-150 days after sowing."
+  },
+  "maize": {
+    "sowing_method": "Sow in ridges at 60 x 20 cm spacing and ensure uniform depth.",
+    "irrigation_schedule": "Irrigate at knee-high, tasseling and grain filling stages.",
+    "fertilizer_plan": "Apply 25% N basal and remaining N in 2 top dressings with full P and K.",
+    "pest_control": "Watch for fall armyworm; use pheromone traps and bio-control with timely action.",
+    "harvest_time": "90-120 days after sowing."
+  },
+  "chickpea": {
+    "sowing_method": "Sow on conserved moisture fields with seed treatment and Rhizobium inoculation.",
+    "irrigation_schedule": "Usually rainfed; if needed irrigate at flowering and pod formation.",
+    "fertilizer_plan": "Low N, adequate P and sulfur are important; use biofertilizer inoculants.",
+    "pest_control": "Monitor pod borer and wilt; adopt resistant varieties and IPM.",
+    "harvest_time": "95-130 days after sowing."
+  },
+  "cotton": {
+    "sowing_method": "Use raised beds with recommended hybrid spacing and seed treatment.",
+    "irrigation_schedule": "Provide irrigation at square formation, flowering and boll development.",
+    "fertilizer_plan": "Balanced NPK with micronutrients, especially boron where deficient.",
+    "pest_control": "Follow pink bollworm advisory, install pheromone traps and remove residues.",
+    "harvest_time": "150-180 days after sowing."
+  },
+  "sugarcane": {
+    "sowing_method": "Plant healthy 2-3 bud setts in furrows at recommended spacing.",
+    "irrigation_schedule": "Frequent light irrigation early, then at 10-15 day interval by soil moisture.",
+    "fertilizer_plan": "High nutrient crop; apply FYM and split N with full P and K.",
+    "pest_control": "Manage early shoot borer and pyrilla with field sanitation and biological control.",
+    "harvest_time": "10-14 months after planting."
+  },
+  "groundnut": {
+    "sowing_method": "Sow in well-drained sandy loam with gypsum application at pegging.",
+    "irrigation_schedule": "Irrigate at flowering, pegging and pod development.",
+    "fertilizer_plan": "Apply basal NPK with calcium and sulfur support.",
+    "pest_control": "Watch leaf miner and tikka disease; use resistant varieties and timely sprays.",
+    "harvest_time": "100-120 days after sowing."
+  },
+  "millet": {
+    "sowing_method": "Direct seed in lines on light soils with good drainage.",
+    "irrigation_schedule": "Needs minimal irrigation; provide at booting if dry spell persists.",
+    "fertilizer_plan": "Moderate N with basal P and K; incorporate organic manure.",
+    "pest_control": "Use seed treatment and keep field weed-free in early growth.",
+    "harvest_time": "75-95 days after sowing."
+  },
+  "pigeonpeas": {
+    "sowing_method": "Sow in wide rows for better branching and intercropping options.",
+    "irrigation_schedule": "Mostly rainfed; one protective irrigation at flowering helps.",
+    "fertilizer_plan": "Apply starter N and adequate P with Rhizobium culture.",
+    "pest_control": "Monitor pod borer and pod fly; use traps and need-based control.",
+    "harvest_time": "140-180 days after sowing."
+  },
+  "mungbean": {
+    "sowing_method": "Line sow with quality seed after seed treatment.",
+    "irrigation_schedule": "2-3 irrigations at branching and pod filling in dry periods.",
+    "fertilizer_plan": "Low N and good phosphorus with biofertilizer inoculation.",
+    "pest_control": "Control whitefly and yellow mosaic through resistant varieties and vector management.",
+    "harvest_time": "60-75 days after sowing."
+  },
+  "blackgram": {
+    "sowing_method": "Sow in lines with proper seed treatment and Rhizobium culture.",
+    "irrigation_schedule": "Irrigate at flowering and pod filling if rainfall is low.",
+    "fertilizer_plan": "Apply basal P and sulfur with low starter nitrogen.",
+    "pest_control": "Watch for leaf curl and sucking pests; use yellow sticky traps.",
+    "harvest_time": "70-90 days after sowing."
+  },
+  "lentil": {
+    "sowing_method": "Sow in fine seedbed at shallow depth with proper spacing.",
+    "irrigation_schedule": "Usually one irrigation at pre-flowering in dry soils.",
+    "fertilizer_plan": "Apply phosphorus-rich basal dose and biofertilizers.",
+    "pest_control": "Manage rust and wilt with resistant seeds and crop rotation.",
+    "harvest_time": "100-120 days after sowing."
+  },
+  "banana": {
+    "sowing_method": "Plant healthy tissue-culture plants on raised beds with mulching.",
+    "irrigation_schedule": "Drip irrigation at regular intervals based on evapotranspiration.",
+    "fertilizer_plan": "Monthly split fertigation with NPK and micronutrients.",
+    "pest_control": "Control weevils and sigatoka via sanitation and integrated sprays.",
+    "harvest_time": "11-14 months after planting."
+  },
+  "mango": {
+    "sowing_method": "Plant grafted saplings in well-prepared pits at orchard spacing.",
+    "irrigation_schedule": "Irrigate young trees frequently; mature trees at flowering/fruit set.",
+    "fertilizer_plan": "Apply FYM and age-based NPK doses annually.",
+    "pest_control": "Monitor hopper and powdery mildew; prune canopy and spray as advised.",
+    "harvest_time": "3-5 years for regular yield after planting."
+  },
+  "coffee": {
+    "sowing_method": "Transplant nursery plants under shade with contour planting.",
+    "irrigation_schedule": "Provide blossom and backing irrigation during dry spells.",
+    "fertilizer_plan": "Split NPK with organic matter and liming where needed.",
+    "pest_control": "Monitor berry borer and rust; maintain shade balance and IPM.",
+    "harvest_time": "3-4 years after planting for commercial picking."
+  },
+  "jute": {
+    "sowing_method": "Broadcast or line sow in warm humid fields with fine tilth.",
+    "irrigation_schedule": "Keep soil moist; avoid prolonged waterlogging.",
+    "fertilizer_plan": "Apply organic manure with balanced NPK before sowing.",
+    "pest_control": "Monitor stem rot and semilooper; maintain drainage and timely protection.",
+    "harvest_time": "100-120 days after sowing."
+  }
+}

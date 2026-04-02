@@ -1,0 +1,46 @@
+# Node / Vite
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python / FastAPI
+.venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+htmlcov/
+backend/app/data/history.db
+backend/app/data/*.sqlite
+backend/app/data/*.db-shm
+backend/app/data/*.db-wal
+
+# Android / Gradle / Capacitor generated files
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+*.apk
+*.aab
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
